@@ -1,0 +1,7 @@
+C:\C# Project\MovePicture\MovePicture\bin\Debug\MovePicture.exe.config
+C:\C# Project\MovePicture\MovePicture\bin\Debug\MovePicture.exe
+C:\C# Project\MovePicture\MovePicture\bin\Debug\MovePicture.pdb
+C:\C# Project\MovePicture\MovePicture\obj\Debug\MovePicture.csproj.SuggestedBindingRedirects.cache
+C:\C# Project\MovePicture\MovePicture\obj\Debug\MovePicture.csproj.CoreCompileInputs.cache
+C:\C# Project\MovePicture\MovePicture\obj\Debug\MovePicture.exe
+C:\C# Project\MovePicture\MovePicture\obj\Debug\MovePicture.pdb
