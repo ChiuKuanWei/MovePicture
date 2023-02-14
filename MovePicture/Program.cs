@@ -22,7 +22,6 @@ namespace MovePicture
                 if (Directory.Exists(sPath[j] + "\\2000W"))
                 {
                     string sDirectory = sPath[j] + "\\2000W";
-                    DirectoryInfo di = new DirectoryInfo(sDirectory);
                     foreach (var di_file in Directory.GetDirectories(sDirectory))
                     {
                         if (Directory.GetFiles(di_file).Length != 0)
